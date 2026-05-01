@@ -1,5 +1,5 @@
-## Hi there 👋
-## Just setting my profile here
+## Greetings, stranger from afar 
+Just setting my profile here
 <!--
 **z3rory/z3rory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
